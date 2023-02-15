@@ -8,7 +8,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "No Tiene Nombre",
   tagline: "Documentación de No Tiene Nombre",
-  favicon: "img/favicon.ico",
+  favicon: "img/ntnv2.png",
+
+  noIndex: true,
 
   // Set the production url of your site here
   url: "https://docs.notienenombre.net.ar",
