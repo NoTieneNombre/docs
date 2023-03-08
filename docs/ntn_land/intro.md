@@ -78,3 +78,12 @@ Para entrar al servidor solo es necesario apretar el botón que dice "Entrar a N
 :::info
 Antes de entrar al servidor ir a la pantalla de multijugador para introducir la contraseña que se usará para iniciar sesión en el servidor.
 :::
+
+## Cambiar cantidad de memoria RAM asignada
+
+Para cambiar la cantidad de memoria RAM asignada debemos hacer los siguientes pasos:
+
+1. Click derecho en el modpack y en el botón "Editar..."
+2. Ir a la pestaña de configuración.
+3. Marcar la casilla de "Memoria"
+4. Asignar en ambos valores 8192 MB (recomendado) o 5144 MB.
