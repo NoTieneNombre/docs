@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Instalación
 
-Bienvenidos a la segunda temporada de Cockland, a continuación se encuentran las instrucciones de instalación.
+Bienvenidos a la segunda temporada de NTN Land, a continuación se encuentran las instrucciones de instalación.
 
 ## Requerimientos
 
@@ -29,11 +29,11 @@ Asegurarse de marcar la casilla de establecer **JAVA_HOME** y agregar al **PATH*
 
 ## Descarga del modpack
 
-Las descargas del modpack se pueden encontrar todas en una única y simple ubiación, el servidor oficial de archivos de No Tiene Nombre: <https://files.notienenombre.net.ar>, dentro de la carpeta [`cockland`](https://files.notienenombre.net.ar/cockland).
+Las descargas del modpack se pueden encontrar todas en una única y simple ubiación, el servidor oficial de archivos de No Tiene Nombre: <https://files.notienenombre.net.ar>, dentro de la carpeta [`ntn_land`](https://files.notienenombre.net.ar/ntn_land).
 
-Los archivos del modpack tienen el nombre de `Cockland_II_vX.Y.zip`, reemplazando la _X_ por el número de versión obligatoria e _Y_ por el número de versión opcional. El mayor número es el que deberíamos descargar.
+Los archivos del modpack tienen el nombre de `NTN_Land_vX.Y_(1.19.2).zip`, reemplazando la _X_ por el número de versión obligatoria e _Y_ por el número de versión opcional. El mayor número es el que deberíamos descargar.
 
-Actualmente, la última versión es [`Cockland_II_v1.0.zip`](https://files.notienenombre.net.ar/cockland/Cockland_II_v1.0.zip).
+Actualmente, la última versión es [`NTN_Land_v1.0_(1.19.2).zip`](https://files.notienenombre.net.ar/ntn_land/NTN_Land_v1.0_%281.19.2%29.zip).
 
 ## Launchers
 
@@ -60,7 +60,7 @@ El launcher no premium es una copia exacta del launcher premium pero recompilado
 Para descargarlo simplemente hacemos click [aca](https://files.notienenombre.net.ar/PrismLauncher-NoPremium.zip).
 
 :::caution Advertencia
-Para evitar cualquier problema, limitarse a usar este launcher solo para entrar a Cockland.
+Para evitar cualquier problema, limitarse a usar este launcher solo para entrar a NTN Land.
 :::
 
 Para instalar el pack de mods una vez hayamos abierto el programa y completado la configuración inicial, solo basta con arrastrar el .zip del modpack descargado anteriormente al launcher.
@@ -73,7 +73,7 @@ Luego en el botón de "Gestionar cuentas", y por último en el botón de "Añadi
 
 ## Entrar al servidor
 
-Para entrar al servidor solo es necesario apretar el botón que dice "Entrar a Cockland".
+Para entrar al servidor solo es necesario apretar el botón que dice "Entrar a NTN Land".
 
 :::info
 Antes de entrar al servidor ir a la pantalla de multijugador para introducir la contraseña que se usará para iniciar sesión en el servidor.

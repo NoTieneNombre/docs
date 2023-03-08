@@ -16,8 +16,8 @@ const sidebars = {
   cocklandSidebar: [
     {
       type: "category",
-      label: "Cockland",
-      items: ["cockland/intro", "cockland/update"],
+      label: "NTN Land",
+      items: ["ntn_land/intro", "ntn_land/update"],
       collapsible: false,
     },
   ],

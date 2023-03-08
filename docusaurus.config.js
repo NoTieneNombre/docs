@@ -72,8 +72,8 @@ const config = {
           {
             type: "doc",
             position: "left",
-            docId: "cockland/intro",
-            label: "Cockland",
+            docId: "ntn_land/intro",
+            label: "NTN Land",
           },
         ],
       },
